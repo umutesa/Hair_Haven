@@ -1,27 +1,7 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
-  /**
-   * colors
-   */
-
   --bright-yellow-crayola: hsl(36, 94%, 57%);
-  --portland-orange: hsl(15, 84%, 57%);
+  ----nature-green: hsl(15, 84%, 57%);
   --battleship-gray: hsl(0, 0%, 53%);
   --silver-chalice: hsl(0, 0%, 70%);
   --spanish-gray: hsl(0, 0%, 60%);
@@ -35,6 +15,8 @@
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
   --onyx: hsl(220, 2%, 24%);
+  ------nature-green: hsl(136, 38%, 40%);
+
 
   /**
    * typography
@@ -206,7 +188,7 @@ body {
 
 .section-title .span {
   display: inline;
-  color: var(--portland-orange);
+  color: var(----nature-green);
 }
 
 .img-holder {
@@ -239,13 +221,13 @@ body {
 .has-scrollbar::-webkit-scrollbar { height: 10px; }
 
 .has-scrollbar::-webkit-scrollbar-track {
-  outline: 2px solid var(--portland-orange);
+  outline: 2px solid var(----nature-green);
   border-radius: var(--radius-10);
 }
 
 .has-scrollbar::-webkit-scrollbar-thumb {
   border-radius: var(--radius-10);
-  background-color: var(--portland-orange);
+  background-color: var(----nature-green);
   border: 2px solid var(--white);
 }
 
@@ -321,7 +303,7 @@ body {
   position: absolute;
   top: -8px;
   right: -10px;
-  background-color: var(--portland-orange);
+  background-color: var(----nature-green);
   color: var(--white);
   font-size: var(--fs-8);
   min-width: 18px;
@@ -396,7 +378,7 @@ body {
 
 .hero .btn { margin-inline: auto; }
 
-.hero .btn:is(:hover, :focus) { background-color: var(--portland-orange); }
+.hero .btn:is(:hover, :focus) { background-color: var(----nature-green); }
 
 
 
@@ -418,7 +400,7 @@ body {
   transition: var(--transition-1);
 }
 
-.category-card .card-title:is(:hover, :focus) { color: var(--portland-orange); }
+.category-card .card-title:is(:hover, :focus) { color: var(----nature-green); }
 
 
 
@@ -446,7 +428,7 @@ body {
   margin-block: 5px 24px;
 }
 
-.offer-card .btn { background-color: var(--portland-orange); }
+.offer-card .btn { background-color: var(----nature-green); }
 
 .offer-card .btn:is(:hover, :focus) { background-color: var(--black); }
 
@@ -493,10 +475,10 @@ body {
 
 .product-card .card-title { transition: var(--transition-1); }
 
-.product-card .card-title:is(:hover, :focus) { color: var(--portland-orange); }
+.product-card .card-title:is(:hover, :focus) { color: var(----nature-green); }
 
 .product-card .card-price {
-  color: var(--portland-orange);
+  color: var(----nature-green);
   font-size: var(--fs-4);
   font-weight: var(--fw-700);
 }
@@ -612,7 +594,7 @@ body {
 
 .footer-text .link {
   display: inline-block;
-  color: var(--portland-orange);
+  color: var(----nature-green);
 }
 
 .contact-item {
@@ -627,7 +609,7 @@ body {
 .contact-item ion-icon {
   flex-shrink: 0;
   font-size: 22px;
-  color: var(--portland-orange);
+  color: var(----nature-green);
 }
 
 .social-list {
@@ -644,7 +626,7 @@ body {
 }
 
 .social-link:is(:hover, :focus) {
-  background-color: var(--portland-orange);
+  background-color: var(----nature-green);
   color: var(--white);
 }
 
@@ -660,7 +642,7 @@ body {
   transition: var(--transition-1);
 }
 
-.footer-link:is(:hover, :focus) { color: var(--portland-orange); }
+.footer-link:is(:hover, :focus) { color: var(----nature-green); }
 
 .footer-bottom { padding-block: 20px; }
 
@@ -684,7 +666,7 @@ body {
   position: fixed;
   bottom: 10px;
   right: 20px;
-  background-color: var(--portland-orange);
+  background-color: var(----nature-green);
   color: var(--white);
   font-size: 25px;
   padding: 10px;
@@ -801,8 +783,8 @@ body {
   }
 
   .product-card .card-action-btn:is(:hover, :focus) {
-    background-color: var(--portland-orange);
-    border-color: var(--portland-orange);
+    background-color: var(----nature-green);
+    border-color: var(----nature-green);
     color: var(--white);
   }
 
@@ -1004,7 +986,7 @@ body {
     transition: var(--transition-1);
   }
 
-  .header.active .navbar-link:is(:hover, :focus) { color: var(--portland-orange); }
+  .header.active .navbar-link:is(:hover, :focus) { color: var(----nature-green); }
 
 
 
