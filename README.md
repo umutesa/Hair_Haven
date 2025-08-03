@@ -30,6 +30,3 @@ Hair Haven is designed to connect customers with high-quality hair products, ran
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-**Hair Haven** – Celebrate your style, embrace your hair!
