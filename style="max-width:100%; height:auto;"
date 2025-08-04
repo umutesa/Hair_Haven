@@ -116,7 +116,7 @@
       -->
 
       <section class="section hero has-bg-image" id="home" aria-label="home"
-        style="background-image: url('./src/images/hero-banner.jpg')" style="object-fit:contain>
+        style="background-image: url('./src/images/hero-banner.jpg')"  >
         <div class="container">
 
           <h1 class="h1 hero-title">
@@ -171,7 +171,11 @@
                 </figure>
 
                 <h3 class="h5">
-                  <a href="#" class="card-subtitle">Afro Hair: Deep nourishment for afro-textured hair, keeping it soft, strong, and radiant</a>
+                  <a href="#" class="card-subtitle">
+  <span style="font-weight:500;">Afro Hair:</span> 
+  <span style="font-style:italic;">Deep nourishment for afro-textured hair, keeping it soft, strong, and radiant</span>
+</a>
+                 
                 </h3>
 
               </div>
@@ -186,7 +190,11 @@
                 </figure>
 
                 <h3 class="h5">
-                  <a href="#" class="card-subtitle">Braided Hair: Protect and refresh braids with lightweight moisture</a>
+                                    <a href="#" class="card-subtitle">
+  <span style="font-weight:500;">Braided Hair:</span> 
+  <span style="font-style:italic;">Protect and refresh braids with lightweight moisture</span>
+</a>
+                  
                 </h3>
 
               </div>
@@ -201,7 +209,11 @@
                 </figure>
 
                 <h3 class="h5">
-                  <a href="#" class="card-subtitle">Conditioner: Rich conditioner to detangle, hydrate, and smooth every strand</a>
+             <a href="#" class="card-subtitle">
+            <span style="font-weight:500;">>Conditioner:</span> 
+            <span style="font-style:italic;">Rich conditioner to detangle, hydrate, and smooth every strand</span>
+</a>
+                  
                 </h3>
 
               </div>
@@ -216,7 +228,11 @@
                 </figure>
 
                 <h3 class="h5">
-                  <a href="#" class="card-subtitle">Shampoo: Gentle cleansing shampoo that restores balance and natural vitality.</a>
+            <a href="#" class="card-subtitle">
+  <span style="font-weight:500;">>Shampoo:</span> 
+  <span style="font-style:italic;">Gentle cleansing shampoo that restores balance and natural vitality.</span>
+</a>
+          
                 </h3>
 
               </div>
@@ -242,7 +258,7 @@
 
             <li>
               <div class="offer-card has-bg-image img-holder"
-                style="background-image: url('./src/images/offer-banner-1.jpg'); --width: 540; --height: 374;">
+                style="background-image: url('./src/images/offer-banner-1.jpg'); --width: 540; --height: 374; " >
 
                 <p class="card-subtitle">Selected Items. Online Only.</p>
 
@@ -257,7 +273,7 @@
 
             <li>
               <div class="offer-card has-bg-image img-holder"
-                style="background-image: url('./src/images/offer-banner-2.jpg'); --width: 540; --height: 374;">
+                style="background-image: url('./src/images/offer-banner-2.jpg'); --width: 540; --height: 374;" >
 
                 <p class="card-subtitle">Care That Honors Every Texture</p>
 
@@ -272,7 +288,7 @@
 
             <li>
               <div class="offer-card has-bg-image img-holder"
-                style="background-image: url('./src/images/offer-banner-3.jpg'); --width: 540; --height: 374;">
+                style="background-image: url('./src/images/offer-banner-3.jpg'); --width: 540; --height: 374;" >
 
                 <p class="card-subtitle">Strength, Shine & Style</p>
 
@@ -312,9 +328,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-1.jpg" width="360" height="360" loading="lazy"
-                    alt="Commodo leo sed porta" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Commodo leo sed porta" class="img-cover default" >
                   <img src="./src/images/product-1_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Commodo leo sed porta" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Commodo leo sed porta" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -353,7 +369,7 @@
                   <img src="./src/images/product-2.jpg" width="360" height="360" loading="lazy"
                     alt="Purus consequat congue sit" class="img-cover default" style="contain">
                   <img src="./src/images/product-2_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Purus consequat congue sit" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Purus consequat congue sit" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -390,9 +406,9 @@
 
                 <div class="card-banner img-holder" >
                   <img src="./src/images/product-3.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover default" >
                   <img src="./src/images/product-3_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -429,9 +445,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-4.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover default" >
                   <img src="./src/images/product-4_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -468,9 +484,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-5.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover default" >
                   <img src="./src/images/product-5_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Morbi vel arcu scelerisque" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Morbi vel arcu scelerisque" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -507,9 +523,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-6.jpg" width="360" height="360" loading="lazy"
-                    alt="Nam justo libero porta ege" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Nam justo libero porta ege" class="img-cover default" >
                   <img src="./src/images/product-6_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Nam justo libero porta ege" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Nam justo libero porta ege" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -546,9 +562,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-7.jpg" width="360" height="360" loading="lazy"
-                    alt="Nam justo libero porta ege" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Nam justo libero porta ege" class="img-cover default" >
                   <img src="./src/images/product-7_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Nam justo libero porta ege" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Nam justo libero porta ege" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -585,9 +601,9 @@
 
                 <div class="card-banner img-holder" style="--width: 360; --height: 360;">
                   <img src="./src/images/product-8.jpg" width="360" height="360" loading="lazy"
-                    alt="Etiam commodo leo sed" class="img-cover default" style="max-width:100%; height:auto;">
+                    alt="Etiam commodo leo sed" class="img-cover default" >
                   <img src="./src/images/product-8_0.jpg" width="360" height="360" loading="lazy"
-                    alt="Etiam commodo leo sed" class="img-cover hover" style="max-width:100%; height:auto;">
+                    alt="Etiam commodo leo sed" class="img-cover hover" >
 
                   <button class="card-action-btn" aria-label="add to card" title="Add To Card">
                     <ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
@@ -635,7 +651,7 @@
       <section class="section service" aria-label="service">
         <div class="container">
 
-          <img src="./src/images/service-image.jpg" width="400" height="250" loading="lazy" alt="" class="img" style="max-width:100%; height:auto;">
+          <img src="./src/images/service-image.jpg" width="400" height="250" loading="lazy" alt="" class="img" >
 
           <h2 class="h2 section-title">
             <span class="span">No bad hair days,</span> allowed !
@@ -648,7 +664,7 @@
 
                 <figure class="card-icon">
                   <img src="./src/images/service-icon-1.jpg" width="100" height="100" loading="lazy"
-                    alt="service icon" style="max-width:100%; height:auto;">
+                    alt="service icon" >
                 </figure>
 
                 <h3 class="h3 card-title">Free Same-Day Delivery</h3>
@@ -665,7 +681,7 @@
 
                 <figure class="card-icon">
                   <img src="./src/images/service-icon-2.png" width="70" height="70" loading="lazy"
-                    alt="service icon" style="max-width:100%; height:auto;">
+                    alt="service icon" >
                 </figure>
 
                 <h3 class="h3 card-title">30 Day Return Policy</h3>
@@ -682,7 +698,7 @@
 
                 <figure class="card-icon">
                   <img src="./src/images/service-icon-3.png" width="70" height="70" loading="lazy"
-                    alt="service icon" style="max-width:100%; height:auto;">
+                    alt="service icon" >
                 </figure>
 
                 <h3 class="h3 card-title">Security payment</h3>
@@ -699,7 +715,7 @@
 
                 <figure class="card-icon">
                   <img src="./src/images/service-icon-4.png" width="70" height="70" loading="lazy"
-                    alt="service icon" style="max-width:100%; height:auto;">
+                    alt="service icon" >
                 </figure>
 
                 <h3 class="h3 card-title">24/7 Support</h3>
@@ -728,13 +744,13 @@
         <div class="container">
 
           <figure class="cta-banner">
-            <img src="./src/images/cta-banner.png" width="900" height="660" loading="lazy" alt="cat" class="w-100" style="max-width:100%; height:auto;">
+            <img src="./src/images/cta-banner.png" width="900" height="660" loading="lazy" alt="cat" class="w-100" >
           </figure>
 
           <div class="cta-content">
 
             <img src="./src/images/cta-icon.jpg" width="120" height="35" loading="lazy" alt="taste guarantee"
-              class="img" style="max-width:100%; height:auto;">
+              class="img" >
 
             <h2 class="h2 section-title"> Good hair days only! Guaranteed!</h2>
 
@@ -770,35 +786,35 @@
             <li class="scrollbar-item">
               <div class="brand-card img-holder" style="--width: 150; --height: 150;">
                 <img src="./src/images/brand-1.jpg" width="150" height="150" loading="lazy" alt="brand logo"
-                  class="img-cover" style="max-width:100%; height:auto;">
+                  class="img-cover" >
               </div>
             </li>
 
             <li class="scrollbar-item">
               <div class="brand-card img-holder" style="--width: 150; --height: 150;">
                 <img src="./src/images/brand-2.jpg" width="150" height="150" loading="lazy" alt="brand logo"
-                  class="img-cover" style="max-width:100%; height:auto;">
+                  class="img-cover" >
               </div>
             </li>
 
             <li class="scrollbar-item">
               <div class="brand-card img-holder" style="--width: 150; --height: 150;">
                 <img src="./src/images/brand-3.jpg" width="150" height="150" loading="lazy" alt="brand logo"
-                  class="img-cover" style="max-width:100%; height:auto;">
+                  class="img-cover" >
               </div>
             </li>
 
             <li class="scrollbar-item">
               <div class="brand-card img-holder" style="--width: 150; --height: 150;">
                 <img src="./src/images/brand-4.jpg" width="150" height="150" loading="lazy" alt="brand logo"
-                  class="img-cover" style="max-width:100%; height:auto;">
+                  class="img-cover" >
               </div>
             </li>
 
             <li class="scrollbar-item">
               <div class="brand-card img-holder" style="--width: 150; --height: 150;">
                 <img src="./src/images/brand-5.jpg" width="150" height="150" loading="lazy" alt="brand logo"
-                  class="img-cover" style="max-width:100%; height:auto;">
+                  class="img-cover" >
               </div>
             </li>
 
