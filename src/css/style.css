@@ -521,12 +521,12 @@ body {
 
 .cta-banner { display: none; }
 
-.cta-content { position: relative;   left: 40px;
+.cta-content { position: relative;  
   bottom: 0;
              }
 
 .cta .section-title {
-  text-align: left;
+  text-align: right;
   margin-block: 10px 20px;
 }
 
