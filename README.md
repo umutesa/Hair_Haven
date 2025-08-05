@@ -4,6 +4,9 @@
 
 Welcome to **Hair Haven**, your one-stop online destination for all hair care products and accessories. This repository contains the source code and documentation for the Hair Haven web services, providing a robust and scalable platform for modern e-commerce experiences.
 
+<img width="1348" height="621" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e49ad6af-d8b6-4291-9ab5-990023760a29" />
+
+
 ## Table of Contents
 
 - [About Hair Haven](#about-hair-haven)
