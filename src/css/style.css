@@ -522,9 +522,6 @@ body {
 .cta-banner { display: none; }
 
 .cta-content { position: absolute;  margin-left: auto;
-             z-index: 10;
-             top: 0;
-              right: 0;
              }
 
 .cta .section-title {
