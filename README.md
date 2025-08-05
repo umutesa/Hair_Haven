@@ -27,6 +27,4 @@ Hair Haven is designed to connect customers with high-quality hair products, ran
 - **Review & Ratings:** Users can review products and leave ratings.
 
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
