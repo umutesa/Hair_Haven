@@ -521,7 +521,7 @@ body {
 
 .cta-banner { display: none; }
 
-.cta-content { padding-block: 80px var(--section-padding);  margin-left: auto;}
+.cta-content {   margin-left: auto;}
 
 .cta .section-title {
   text-align: left;
