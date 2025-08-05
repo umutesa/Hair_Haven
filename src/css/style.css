@@ -521,7 +521,7 @@ body {
 
 .cta-banner { display: none; }
 
-.cta-content { position: relative;   right: 0;
+.cta-content { position: relative;   left: 0;
   bottom: 0;
              }
 
